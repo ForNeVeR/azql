@@ -137,7 +137,7 @@ AZQL supports grouping:
 
 ### Subqueries
 
-Subqueies are supported too:
+Subqueries are supported too:
 
 ```clj
 (def all-users (select (from :Users)))
